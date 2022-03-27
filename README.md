@@ -12,90 +12,90 @@ positioning.</p>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="/cssref/css3_pr_column-gap.asp">column-gap</a></td>
+    <td>column-gap</td>
     <td>Specifies the gap between the columns</td>
   </tr>
   <tr>
-    <td><a href="/cssref/css3_pr_gap.asp">gap</a></td>
+    <td>gap</td>
     <td>A shorthand property for the <em>row-gap</em> and the <em>column-gap</em> properties</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid.asp">grid</a></td>
+    <td>grid</td>
     <td>A shorthand property for the <em>grid-template-rows, 
     grid-template-columns, grid-template-areas, grid-auto-rows, 
     grid-auto-columns</em>, and the <em>grid-auto-flow</em> properties</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-area.asp">grid-area</a></td>
+    <td>grid-area</td>
     <td>Either specifies a name for the grid item, or this property is a shorthand property for the <em>grid-row-start</em>, <em>grid-column-start</em>, <em>grid-row-end</em>, and <em>grid-column-end</em> properties</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-auto-columns.asp">grid-auto-columns</a></td>
+    <td>grid-auto-columns</td>
     <td>Specifies a default column size</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-auto-flow.asp">grid-auto-flow</a></td>
+    <td>grid-auto-flow</td>
     <td>Specifies how auto-placed items are inserted in the grid</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-auto-rows.asp">grid-auto-rows</a></td>
+    <td>grid-auto-rows</td>
     <td>Specifies a default row size</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-column.asp">grid-column</a></td>
+    <td>grid-column</td>
     <td>A shorthand property for the <em>grid-column-start</em> and the <em>grid-column-end</em> properties</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-column-end.asp">grid-column-end</a></td>
+    <td>grid-column-end</td>
     <td>Specifies where to end the grid item</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-column-gap.asp">grid-column-gap</a></td>
+    <td>grid-column-gap</td>
     <td>Specifies the size of the gap between columns</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-column-start.asp">grid-column-start</a></td>
+    <td>grid-column-start</td>
     <td>Specifies where to start the grid item</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-gap.asp">grid-gap</a></td>
+    <td>grid-gap</td>
     <td>A shorthand property for the <em>grid-row-gap</em> and <em>grid-column-gap</em> properties</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-row.asp">grid-row</a></td>
+    <td>grid-row</td>
     <td>A shorthand property for the <em>grid-row-start</em> and the <em>grid-row-end</em> properties</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-row-end.asp">grid-row-end</a></td>
+    <td>grid-row-end</td>
     <td>Specifies where to end the grid item</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-row-gap.asp">grid-row-gap</a></td>
+    <td>grid-row-gap</td>
     <td>Specifies the size of the gap between rows</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-row-start.asp">grid-row-start</a></td>
+    <td>grid-row-start</td>
     <td>Specifies where to start the grid item</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-template.asp">grid-template</a></td>
+    <td>grid-template</td>
     <td>A shorthand property for the <em>grid-template-rows</em>, <em>grid-template-columns</em> 
     and <em>grid-areas</em> properties</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-template-areas.asp">grid-template-areas</a></td>
+    <td>grid-template-areas</td>
     <td>Specifies how to display columns and rows, using named grid items</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-template-columns.asp">grid-template-columns</a></td>
+    <td>grid-template-columns</td>
     <td>Specifies the size of the columns, and how many columns in a grid layout</td>
   </tr>
   <tr>
-    <td><a href="/cssref/pr_grid-template-rows.asp">grid-template-rows</a></td>
+    <td>grid-template-rows</td>
     <td>Specifies the size of the rows in a grid layout</td>
   </tr>
   <tr>
-    <td><a href="/cssref/css3_pr_row-gap.asp">row-gap</a></td>
+    <td>row-gap</td>
     <td>Specifies the gap between the grid rows</td>
   </tr>
 </tbody></table>
